@@ -1,6 +1,7 @@
 # Background_color_suppression
 
 Simple color based object segmentation (with pose) in industrial context.
+
 The code use OpenCV 4.0.2 on python 3.6.
 
 The aim of this application is to remove a dominant color in a image using HSV histogram separation. 
